@@ -1,4 +1,4 @@
-# 📘 Adobe Hackathon Round 1A – PDF Structure Extractor
+# 📘 Automated Structure Extractor from PDF
 
 This project solves the challenge of **automated structure extraction from PDFs**. It supports **all world languages**, processes PDFs up to 50 pages, and outputs the **document title** and **outline (H1, H2, H3)** in a standardized JSON format.
 
